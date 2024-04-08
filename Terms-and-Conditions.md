@@ -76,20 +76,7 @@ Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">These Legal Terms
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:</span></div><div class="MsoNormal" style="line-height: 1.5; text-align: left;"><br></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5; text-align: left;"><span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><bdt class="question"><strong>__________</strong></bdt><strong><bdt class="block-component"></bdt></span><bdt class="block-component"></bdt></span></span></span></span></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5; text-align: left;"><span style="font-size: 15px;"><strong><span style="color: rgb(89, 89, 89);"><bdt class="question">Warsaw</bdt><bdt class="block-component"></bdt><bdt class="block-component"></bdt></span></strong><strong><span style="color: rgb(89, 89, 89);"><bdt class="block-component"></bdt></span><bdt class="block-component"></bdt></strong></span></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5; text-align: left;"><bdt class="block-component"><strong></bdt><bdt class="question">Poland</bdt></strong></span><bdt class="statement-end-if-in-editor"></bdt><bdt class="statement-end-if-in-editor"></bdt></strong><bdt class="statement-end-if-in-editor"><strong></strong></bdt></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5; text-align: left;"><strong><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><strong><bdt class="block-component"></bdt></strong></span></strong></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5; text-align: left;"><strong><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><strong><bdt class="block-component"></bdt></strong></span></strong></span></strong></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5; text-align: left;"><strong><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
-Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><strong><bdt class="question">aceit.ai.flashcard@gmail.com</bdt></strong></span></strong></div></div></div><style>
-      ul {
-        list-style-type: square;
-      }
-      ul > li > ul {
-        list-style-type: circle;
-      }
-      ul > li > ul > li > ul {
-        list-style-type: square;
-      }
-      ol li {
-        font-family: Arial ;
-      }
-    </style>
+Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><strong><bdt class="question">aceit.ai.flashcard@gmail.com</bdt></strong></span></strong></div></div></div>
       </div>
       <div style="color: #595959;font-size: 14px;font-family: Arial;padding-top:16px;">
       These terms of use were created using Termly's <a style="color: rgb(48, 48, 241) !important;" href="https://termly.io/products/terms-and-conditions-generator/">Terms and Conditions Generator</a>.
